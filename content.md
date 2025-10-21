@@ -1,8 +1,7 @@
 # sep10-freedom-project-prep-content.md
 <!DOCTYPE html>
-<html lang="en">
+
 <head>
-  <meta charset="UTF-8">
   <title>How Law Uses Technology</title>
 </head>
 <body>
@@ -48,7 +47,7 @@
       <strong>Cybersecurity Tools</strong><br>
       Protects law firm data through encryption and secure storage.<br>
       <em>Example:</em> Emails with client files are encrypted.<br>
-      <a href="https://www.americanbar.org/groups/law_practice/publications/techreport/2021/cybersecurity/" target="_blank">Source: ABA</a>
+      <a href="https://www.americanbar.org/groups/law_practice/publications/techreport/2021/cybersecurity/" target="_blank">Source: <aba>
     </li>
     <li>
       <strong>Online Dispute Resolution (ODR)</strong><br>
